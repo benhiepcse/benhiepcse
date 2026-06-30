@@ -16,14 +16,14 @@
 
 🎓 Computer Engineering Student
 
-🤖 Interested in
+🤖 Interested in:
 
 - Robotics Software Engineering
 - Computer Vision
 - Humanoid Robots
 - AI for Robotics
 
-📚 Currently Learning
+📚 Currently Learning:
 
 - C++
 - OpenCV
@@ -35,7 +35,7 @@
 - Robot Mathematics
 - Robot Kinematics
 
-🎯 Long-term Goal
+🎯 Long-term Goal:
 
 Become a **Robotics Software Engineer** specializing in **Humanoid Robot Perception & Control Systems**.
 
@@ -78,6 +78,61 @@ Become a **Robotics Software Engineer** specializing in **Humanoid Robot Percept
 
 ---
 
+# 📚 Learning Progress
+
+| Domain | Progress |
+|---------|:--------:|
+| 🧮 Mathematics for Robotics | 🟩🟩🟩⬜⬜ 60% |
+| 💻 Modern C++ | 🟩🟩🟩⬜⬜ 60% |
+| 🖼️ OpenCV | 🟩🟩⬜⬜⬜ 40% |
+| 📷 Stereo Vision | 🟩🟩⬜⬜⬜ 40% |
+| 🤖 ROS2 | 🟩⬜⬜⬜⬜ 20% |
+| 🔄 TF2 & Coordinate Systems | 🟩🟩🟩⬜⬜ 60% |
+| 🛰️ Gazebo & RViz | ⬜⬜⬜⬜⬜ 0% |
+| 🦿 Robot Kinematics | ⬜⬜⬜⬜⬜ 0% |
+| 🦾 Manipulation | ⬜⬜⬜⬜⬜ 0% |
+| 🤖 Humanoid Robotics | ⬜⬜⬜⬜⬜ 0% |
+
+---
+
+# 🗺️ Robotics Learning Roadmap
+
+```text
+✅ Mathematics
+        │
+        ▼
+✅ Modern C++
+        │
+        ▼
+🔄 OpenCV
+        │
+        ▼
+🔄 Stereo Vision
+        │
+        ▼
+⬜ Camera Calibration
+        │
+        ▼
+⬜ Depth Estimation
+        │
+        ▼
+⬜ ROS2
+        │
+        ▼
+⬜ Gazebo & RViz
+        │
+        ▼
+⬜ Robot Perception
+        │
+        ▼
+⬜ Manipulation
+        │
+        ▼
+⬜ Humanoid Robot
+```
+
+---
+
 # 📌 Featured Projects
 
 | Repository | Description |
@@ -88,52 +143,6 @@ Become a **Robotics Software Engineer** specializing in **Humanoid Robot Percept
 | **stereo-depth-estimation** | Stereo Vision & Depth |
 | **ros2-learning-lab** | ROS2 from Beginner to Advanced |
 | **humanoid-object-following** | Vision-based Humanoid Robot |
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benhiepcse&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benhiepcse&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=benhiepcse&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=benhiepcse&theme=tokyonight" />
-</p>
-
----
-
-# 🌱 Learning Roadmap
-
-```text
-Mathematics
-      │
-      ▼
-Modern C++
-      │
-      ▼
-OpenCV
-      │
-      ▼
-Stereo Vision
-      │
-      ▼
-Robot Mathematics
-      │
-      ▼
-ROS2
-      │
-      ▼
-Gazebo & RViz
-      │
-      ▼
-Humanoid Robot
-```
 
 ---
 
