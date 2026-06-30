@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Dang Bui
+# Hi, I'm Ben
 
 ### Computer Engineering Student | Robotics | Computer Vision | ROS2 | Humanoid Robot
 
