@@ -24,19 +24,47 @@ Mathematics → Modern C++ → OpenCV → Stereo Vision → ROS2 → Humanoid Ro
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Core Robotics Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,ros,linux,git,github,cmake,ubuntu,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,ros,linux" />
 </p>
 
 <p align="center">
-  <b>C++ • Python • OpenCV • ROS2 • Linux • Git • CMake • Ubuntu • VS Code</b>
+  <b>C++ • Python • OpenCV • ROS2 • Linux</b>
 </p>
 
 ---
 
-## 📚 Current Learning Journey
+## 💻 Engineering Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,cmake,ubuntu,vscode" />
+</p>
+
+<p align="center">
+  <b>Git • GitHub • CMake • Ubuntu • VS Code</b>
+</p>
+
+---
+
+## 📚 Learning Dashboard
+
+| Phase | Status | Focus |
+|---|:---:|---|
+| Programming Foundation | 🔄 In Progress | Modern C++, Git, Linux, CMake |
+| Robotics Mathematics | ⏳ Planned | Linear Algebra, Rotation, Transformation |
+| Stereo Vision | ⏳ Planned | Camera Model, Disparity, Depth |
+| Computer Vision | ⏳ Planned | OpenCV, Image Processing, Calibration |
+| ROS2 | ⏳ Planned | Node, Topic, Service, Action, Launch |
+| Gazebo & RViz | ⏳ Planned | Simulation and Visualization |
+| Navigation | ⏳ Planned | Mapping, Localization, Planning |
+| Manipulation | ⏳ Planned | Arm Control, Pick and Place |
+| Humanoid Robotics | ⏳ Planned | Perception-Control Integration |
+
+---
+
+## 🗺️ Robotics Learning Journey
 
 ```text
 🔄 Programming Foundation
@@ -110,7 +138,7 @@ Humanoid Robotics Engineer
 
 <p align="center">
 
-<a href="mailto:work.levonghiahiep@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=work.levonghiahiep@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -125,6 +153,7 @@ Humanoid Robotics Engineer
 </p>
 
 ---
+
 <div align="center">
 
 ### 🤖 From perception to action.
