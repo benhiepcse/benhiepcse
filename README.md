@@ -2,162 +2,111 @@
 
 # 👋 Hi, I'm Ben
 
-### 🤖 Computer Engineering Student • Robotics • Computer Vision • ROS2
+### Computer Engineering Student | Robotics Software | Computer Vision | ROS2
 
-*"Building intelligent robot systems from perception to action."*
+*"Learning robotics one project at a time."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Robotics+Software+Engineer;Computer+Vision+Developer;ROS2+%7C+OpenCV+%7C+C%2B%2B;Building+Humanoid+Robot+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Robotics+Software+Engineering;Computer+Vision+for+Robotics;C%2B%2B+%7C+OpenCV+%7C+ROS2;Humanoid+Robot+Systems" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 Computer Engineering Student
+I am a **Computer Engineering student** focusing on **Robotics Software Engineering**, **Computer Vision**, and **Humanoid Robot Systems**.
 
-🤖 Interested in:
-
-- Robotics Software Engineering
-- Computer Vision
-- Humanoid Robots
-- AI for Robotics
-
-📚 Currently Learning:
-
-- C++
-- OpenCV
-- Stereo Vision
-- ROS2
-- TF2
-- Gazebo
-- RViz
-- Robot Mathematics
-- Robot Kinematics
-
-🎯 Long-term Goal:
-
-Become a **Robotics Software Engineer** specializing in **Humanoid Robot Perception & Control Systems**.
-
----
-
-# 🧠 Robotics & AI Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,ros,linux" />
-</p>
-
-<p align="center">
-  <b>C++ • Python • OpenCV • ROS2 • Linux</b>
-</p>
-
----
-
-# 💻 Software Engineering Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,cmake,ubuntu,vscode" />
-</p>
-
-<p align="center">
-  <b>Git • GitHub • CMake • Ubuntu • VS Code</b>
-</p>
-
----
-
-# 🔭 Current Focus
-
-- 🤖 Robot Coordinate Systems
-- 📷 Stereo Camera
-- 📐 Robot Mathematics
-- 🧠 Computer Vision
-- 🛰️ ROS2
-- 🦿 Humanoid Robot
-- 🔬 Robot Perception
-- 📦 Robotics Projects
-
----
-
-# 📚 Learning Progress
-
-| Domain | Progress |
-|---------|:--------:|
-| 🧮 Mathematics for Robotics | 🟩🟩🟩⬜⬜ 60% |
-| 💻 Modern C++ | 🟩🟩🟩⬜⬜ 60% |
-| 🖼️ OpenCV | 🟩🟩⬜⬜⬜ 40% |
-| 📷 Stereo Vision | 🟩🟩⬜⬜⬜ 40% |
-| 🤖 ROS2 | 🟩⬜⬜⬜⬜ 20% |
-| 🔄 TF2 & Coordinate Systems | 🟩🟩🟩⬜⬜ 60% |
-| 🛰️ Gazebo & RViz | ⬜⬜⬜⬜⬜ 0% |
-| 🦿 Robot Kinematics | ⬜⬜⬜⬜⬜ 0% |
-| 🦾 Manipulation | ⬜⬜⬜⬜⬜ 0% |
-| 🤖 Humanoid Robotics | ⬜⬜⬜⬜⬜ 0% |
-
----
-
-# 🗺️ Robotics Learning Roadmap
+My learning path focuses on building robotics systems from:
 
 ```text
-✅ Mathematics
-        │
-        ▼
-✅ Modern C++
-        │
-        ▼
-🔄 OpenCV
-        │
-        ▼
-🔄 Stereo Vision
-        │
-        ▼
-⬜ Camera Calibration
-        │
-        ▼
-⬜ Depth Estimation
-        │
-        ▼
-⬜ ROS2
-        │
-        ▼
-⬜ Gazebo & RViz
-        │
-        ▼
-⬜ Robot Perception
-        │
-        ▼
-⬜ Manipulation
-        │
-        ▼
-⬜ Humanoid Robot
+Mathematics → Modern C++ → OpenCV → Stereo Vision → ROS2 → Humanoid Robotics
 ```
 
 ---
 
-# 📌 Featured Projects
+## 🧠 Tech Stack
 
-| Repository | Description |
-|------------|-------------|
-| **cpp-robotics-foundation** | Modern C++ for Robotics |
-| **robot-transform-library** | Rotation Matrix, Quaternion, SE(3) |
-| **opencv-robot-vision** | OpenCV Learning Repository |
-| **stereo-depth-estimation** | Stereo Vision & Depth |
-| **ros2-learning-lab** | ROS2 from Beginner to Advanced |
-| **humanoid-object-following** | Vision-based Humanoid Robot |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,ros,linux,git,github,cmake,ubuntu,vscode" />
+</p>
 
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Modern C++
-- ✅ Master OpenCV
-- ✅ Master ROS2
-- ✅ Build Stereo Camera Pipeline
-- ✅ Build Robot Vision Library
-- ✅ Build Humanoid Robot Projects
+<p align="center">
+  <b>C++ • Python • OpenCV • ROS2 • Linux • Git • CMake • Ubuntu • VS Code</b>
+</p>
 
 ---
 
-# 📫 Connect with Me
+## 📚 Current Learning Journey
+
+```text
+🔄 Programming Foundation
+        │
+        ▼
+⏳ Robotics Mathematics
+        │
+        ▼
+⏳ Stereo Vision
+        │
+        ▼
+⏳ Computer Vision
+        │
+        ▼
+⏳ ROS2
+        │
+        ▼
+⏳ Gazebo & RViz
+        │
+        ▼
+⏳ Navigation
+        │
+        ▼
+⏳ Manipulation
+        │
+        ▼
+⏳ Humanoid Robotics
+```
+
+---
+
+## 🎯 Current Focus
+
+- Modern C++ for Robotics
+- Robot Coordinate Systems
+- OpenCV and Camera Model
+- Stereo Vision and Depth Estimation
+- ROS2 Fundamentals
+- Humanoid Robot Perception
+
+---
+
+## 📂 Featured Projects
+
+| Repository | Focus |
+|---|---|
+| `cpp-robotics-foundation` | Modern C++ for robotics software |
+| `robot-transform-library` | Rotation matrix, quaternion, SE(3), transformation chain |
+| `opencv-robot-vision` | OpenCV fundamentals for robot vision |
+| `stereo-depth-estimation` | Stereo camera, disparity, depth estimation |
+| `ros2-learning-lab` | ROS2 node, topic, service, action, launch |
+| `humanoid-object-following` | Vision-based humanoid robot project |
+
+---
+
+## 🏆 Career Goal
+
+```text
+Robotics Software Engineer
+        │
+        ▼
+Computer Vision Engineer
+        │
+        ▼
+Humanoid Robotics Engineer
+```
+
+---
+
+## 📫 Connect with Me
 
 <p align="center">
 
@@ -179,8 +128,6 @@ Become a **Robotics Software Engineer** specializing in **Humanoid Robot Percept
 
 <div align="center">
 
-### 🤖 "The future belongs to intelligent robots."
-
-⭐ Thanks for visiting my profile!
+### 🤖 From perception to action.
 
 </div>
