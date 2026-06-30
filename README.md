@@ -1,105 +1,194 @@
 <div align="center">
 
-# Hi, I'm Ben
+# 👋 Hi, I'm Ben
 
-### Computer Engineering Student | Robotics | Computer Vision | ROS2 | Humanoid Robot
+### 🤖 Computer Engineering Student • Robotics • Computer Vision • ROS2
 
-<i>"Building intelligent robot systems from perception to action."</i>
+*"Building intelligent robot systems from perception to action."*
 
-</div>
-
----
-
-## 🚀 About Me
-
-I am a Computer Engineering student focusing on **Robotics Software Engineering**, **Computer Vision**, and **Humanoid Robot Systems**.
-
-My current learning path includes:
-
-- C++ for Robotics
-- OpenCV and Stereo Vision
-- ROS2 System Integration
-- Camera Calibration and Depth Estimation
-- Coordinate Transformation and TF2
-- Gazebo and RViz Simulation
-- Humanoid Robot Perception-Control Pipeline
-
-My long-term goal is to become a Robotics Software Engineer who can build real-world robot systems, especially humanoid robots.
-
----
-
-## 🧠 Robotics & AI Stack
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Robotics+Software+Engineer;Computer+Vision+Developer;ROS2+%7C+OpenCV+%7C+C%2B%2B;Building+Humanoid+Robot+Systems" />
 
 </div>
 
 ---
 
-## 🛠️ Software Engineering Stack
+# 🚀 About Me
 
-<div align="center">
+🎓 Computer Engineering Student
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+🤖 Interested in
 
-</div>
+- Robotics Software Engineering
+- Computer Vision
+- Humanoid Robots
+- AI for Robotics
 
----
+📚 Currently Learning
 
-## 🔭 What I'm Doing
+- C++
+- OpenCV
+- Stereo Vision
+- ROS2
+- TF2
+- Gazebo
+- RViz
+- Robot Mathematics
+- Robot Kinematics
 
-- 🤖 **Robotics:** Learning humanoid robot perception and control systems.
-- 📷 **Computer Vision:** Building OpenCV and stereo camera projects.
-- 🧭 **ROS2:** Practicing nodes, topics, services, actions, parameters, launch files, and TF2.
-- 🧮 **Mathematics:** Studying linear algebra, transformations, optimization, and robotics geometry.
-- 🧪 **Projects:** Developing robotics projects from basic C++ modules to ROS2-based systems.
+🎯 Long-term Goal
 
----
-
-## 📌 Featured Project Roadmap
-
-| Project | Description |
-|---|---|
-| `cpp-robotics-foundation` | C++ fundamentals for robotics software |
-| `robot-transform-library` | Rotation matrix, quaternion, homogeneous transformation |
-| `opencv-robot-vision` | OpenCV image processing and camera model |
-| `stereo-depth-estimation` | Disparity map, depth estimation, 3D reconstruction |
-| `ros2-learning-lab` | ROS2 node, topic, service, action, launch practice |
-| `humanoid-object-following` | Humanoid robot follows object using vision |
+Become a **Robotics Software Engineer** specializing in **Humanoid Robot Perception & Control Systems**.
 
 ---
 
-## 📊 GitHub Metrics
+# 🧠 Robotics & AI Stack
 
-<div align="center">
+<p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Gazebo-444444?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RViz-0A7EA4?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 🌱 Current Learning Path
+# 💻 Software Engineering Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake"/>
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+
+</p>
+
+---
+
+# 🔭 Current Focus
+
+- 🤖 Robot Coordinate Systems
+- 📷 Stereo Camera
+- 📐 Robot Mathematics
+- 🧠 Computer Vision
+- 🛰️ ROS2
+- 🦿 Humanoid Robot
+- 🔬 Robot Perception
+- 📦 Robotics Projects
+
+---
+
+# 📌 Featured Projects
+
+| Repository | Description |
+|------------|-------------|
+| **cpp-robotics-foundation** | Modern C++ for Robotics |
+| **robot-transform-library** | Rotation Matrix, Quaternion, SE(3) |
+| **opencv-robot-vision** | OpenCV Learning Repository |
+| **stereo-depth-estimation** | Stereo Vision & Depth |
+| **ros2-learning-lab** | ROS2 from Beginner to Advanced |
+| **humanoid-object-following** | Vision-based Humanoid Robot |
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=benhiepcse&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benhiepcse&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=benhiepcse&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌱 Learning Roadmap
 
 ```text
 Mathematics
-→ C++ Robotics Foundation
-→ OpenCV Robot Vision
-→ Stereo Camera & Depth Estimation
-→ ROS2
-→ Gazebo / RViz
-→ Humanoid Robot Projects
+      │
+      ▼
+Modern C++
+      │
+      ▼
+OpenCV
+      │
+      ▼
+Stereo Vision
+      │
+      ▼
+Robot Mathematics
+      │
+      ▼
+ROS2
+      │
+      ▼
+Gazebo & RViz
+      │
+      ▼
+Humanoid Robot
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Modern C++
+- ✅ Master OpenCV
+- ✅ Master ROS2
+- ✅ Build Stereo Camera Pipeline
+- ✅ Build Robot Vision Library
+- ✅ Build Humanoid Robot Projects
+
+---
+
+# 📫 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/benhiepcse">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🤖 "The future belongs to intelligent robots."
+
+⭐ Thanks for visiting my profile!
+
+</div>
