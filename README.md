@@ -119,40 +119,6 @@ Vision-based humanoid robot project for perception-control integration.
 
 ---
 
-## 🧩 Repository Standard
-
-Each robotics project will follow this structure:
-
-```text
-project-name/
-├── README.md
-├── docs/
-├── src/
-├── include/
-├── scripts/
-├── assets/
-├── tests/
-├── CMakeLists.txt
-└── .gitignore
-```
-
-Each project README will include:
-
-```text
-Overview
-Theory
-Mathematics
-Architecture
-Implementation
-Visualization
-Robotics Application
-Build & Run
-Result
-Future Work
-```
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -164,42 +130,6 @@ Future Work
 
 ---
 
-## 🏆 Career Roadmap
-
-```text
-Robotics Software Engineer
-        │
-        ▼
-Computer Vision Engineer
-        │
-        ▼
-Humanoid Robotics Engineer
-```
-
----
-
-## 🌐 Robotics Portfolio Direction
-
-```text
-GitHub Profile
-        │
-        ▼
-Robotics Project Repositories
-        │
-        ▼
-Project Documentation
-        │
-        ▼
-Demo Videos & Visual Results
-        │
-        ▼
-LinkedIn Portfolio
-        │
-        ▼
-Robotics Software Engineer Profile
-```
-
----
 
 ## 📫 Connect with Me
 
