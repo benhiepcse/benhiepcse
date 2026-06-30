@@ -107,16 +107,58 @@ Mathematics → Modern C++ → OpenCV → Stereo Vision → ROS2 → Humanoid Ro
 
 ---
 
-## 📂 Featured Projects
+## 📂 Project Showcase
 
-| Repository | Focus |
-|---|---|
-| `cpp-robotics-foundation` | Modern C++ for robotics software |
-| `robot-transform-library` | Rotation matrix, quaternion, SE(3), transformation chain |
-| `opencv-robot-vision` | OpenCV fundamentals for robot vision |
-| `stereo-depth-estimation` | Stereo camera, disparity, depth estimation |
-| `ros2-learning-lab` | ROS2 node, topic, service, action, launch |
-| `humanoid-object-following` | Vision-based humanoid robot project |
+| Repository | Focus | Status |
+|---|---|:---:|
+| `cpp-robotics-foundation` | Modern C++ for robotics software | 🔄 Building |
+| `robot-transform-library` | Rotation matrix, quaternion, SE(3), transformation chain | ⏳ Planned |
+| `opencv-robot-vision` | OpenCV fundamentals for robot vision | ⏳ Planned |
+| `stereo-depth-estimation` | Stereo camera, disparity, depth estimation | ⏳ Planned |
+| `ros2-learning-lab` | ROS2 node, topic, service, action, launch | ⏳ Planned |
+| `humanoid-object-following` | Vision-based humanoid robot project | ⏳ Planned |
+
+---
+
+## 🧩 Repository Standard
+
+Each robotics project will follow this structure:
+
+```text
+project-name/
+├── README.md
+├── docs/
+├── src/
+├── include/
+├── scripts/
+├── assets/
+├── tests/
+├── CMakeLists.txt
+└── .gitignore
+```
+
+Each project README will include:
+
+```text
+Overview
+Theory
+Mathematics
+Architecture
+Implementation
+Visualization
+Robotics Application
+Build & Run
+Result
+Future Work
+```
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/benhiepcse/benhiepcse/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
@@ -130,6 +172,29 @@ Computer Vision Engineer
         │
         ▼
 Humanoid Robotics Engineer
+```
+
+---
+
+## 🌐 Robotics Portfolio Direction
+
+```text
+GitHub Profile
+        │
+        ▼
+Robotics Project Repositories
+        │
+        ▼
+Project Documentation
+        │
+        ▼
+Demo Videos & Visual Results
+        │
+        ▼
+LinkedIn Portfolio
+        │
+        ▼
+Robotics Software Engineer Profile
 ```
 
 ---
