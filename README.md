@@ -118,7 +118,7 @@ Humanoid Robotics Engineer
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="814701070164819998">
+<a href="https://discord.com/users/814701070164819998">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
