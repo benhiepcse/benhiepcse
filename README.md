@@ -44,21 +44,11 @@ Become a **Robotics Software Engineer** specializing in **Humanoid Robot Percept
 # 🧠 Robotics & AI Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,ros,linux" />
+</p>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Gazebo-444444?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RViz-0A7EA4?style=for-the-badge"/>
-
+<p align="center">
+  <b>C++ • Python • OpenCV • ROS2 • Linux</b>
 </p>
 
 ---
@@ -66,17 +56,11 @@ Become a **Robotics Software Engineer** specializing in **Humanoid Robot Percept
 # 💻 Software Engineering Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,cmake,ubuntu,vscode" />
+</p>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake"/>
-
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-
+<p align="center">
+  <b>Git • GitHub • CMake • Ubuntu • VS Code</b>
 </p>
 
 ---
@@ -110,17 +94,16 @@ Become a **Robotics Software Engineer** specializing in **Humanoid Robot Percept
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=benhiepcse&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benhiepcse&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benhiepcse&theme=github_dark" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benhiepcse&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=benhiepcse&theme=github_dark" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=benhiepcse&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=benhiepcse&theme=tokyonight" />
 </p>
 
 ---
@@ -170,15 +153,15 @@ Humanoid Robot
 <p align="center">
 
 <a href="https://github.com/benhiepcse">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
