@@ -64,35 +64,25 @@ Mathematics → Modern C++ → OpenCV → Stereo Vision → ROS2 → Humanoid Ro
 
 ---
 
-## 🗺️ Robotics Learning Journey
+## 🚧 Currently Building
 
-```text
-🔄 Programming Foundation
-        │
-        ▼
-⏳ Robotics Mathematics
-        │
-        ▼
-⏳ Stereo Vision
-        │
-        ▼
-⏳ Computer Vision
-        │
-        ▼
-⏳ ROS2
-        │
-        ▼
-⏳ Gazebo & RViz
-        │
-        ▼
-⏳ Navigation
-        │
-        ▼
-⏳ Manipulation
-        │
-        ▼
-⏳ Humanoid Robotics
-```
+| Project | Description | Progress |
+|---|---|:---:|
+| `cpp-robotics-foundation` | Modern C++ foundation for robotics software | 🔄 Building |
+| `robot-transform-library` | Rotation matrix, quaternion, SE(3), transformation chain | ⏳ Planned |
+| `opencv-robot-vision` | OpenCV fundamentals for camera and robot vision | ⏳ Planned |
+
+---
+
+## 🗓️ Upcoming Projects
+
+- 🔜 Stereo Camera Calibration
+- 🔜 Stereo Depth Estimation
+- 🔜 ROS2 Learning Lab
+- 🔜 Gazebo & RViz Simulation
+- 🔜 Humanoid Object Following
+- 🔜 Humanoid Pick and Place
+- 🔜 Humanoid Table Cleaning
 
 ---
 
@@ -107,16 +97,25 @@ Mathematics → Modern C++ → OpenCV → Stereo Vision → ROS2 → Humanoid Ro
 
 ---
 
-## 📂 Project Showcase
+## 📦 Featured Repositories
 
-| Repository | Focus | Status |
-|---|---|:---:|
-| `cpp-robotics-foundation` | Modern C++ for robotics software | 🔄 Building |
-| `robot-transform-library` | Rotation matrix, quaternion, SE(3), transformation chain | ⏳ Planned |
-| `opencv-robot-vision` | OpenCV fundamentals for robot vision | ⏳ Planned |
-| `stereo-depth-estimation` | Stereo camera, disparity, depth estimation | ⏳ Planned |
-| `ros2-learning-lab` | ROS2 node, topic, service, action, launch | ⏳ Planned |
-| `humanoid-object-following` | Vision-based humanoid robot project | ⏳ Planned |
+### 💻 `cpp-robotics-foundation`
+Modern C++ foundation for robotics software engineering.
+
+### 🧩 `robot-transform-library`
+Rotation matrix, quaternion, homogeneous transformation, SE(3), and transformation chain.
+
+### 📷 `opencv-robot-vision`
+OpenCV fundamentals for camera model, image processing, calibration, and robot vision.
+
+### 📡 `stereo-depth-estimation`
+Stereo camera, disparity map, depth estimation, and 3D reconstruction.
+
+### 🤖 `ros2-learning-lab`
+ROS2 node, topic, service, action, parameter, launch, and TF2 practice.
+
+### 🦿 `humanoid-object-following`
+Vision-based humanoid robot project for perception-control integration.
 
 ---
 
@@ -157,12 +156,15 @@ Future Work
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/benhiepcse/benhiepcse/output/github-contribution-grid-snake-dark.svg" />
+  <img
+    src="https://raw.githubusercontent.com/benhiepcse/benhiepcse/output/github-contribution-grid-snake-dark.svg?raw=true"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
 
-## 🏆 Career Goal
+## 🏆 Career Roadmap
 
 ```text
 Robotics Software Engineer
